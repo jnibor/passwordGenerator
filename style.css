@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    position: relative;
+    top: 4rem;
+    font-family: "Unbounded", cursive;
+}
+
+#div1 {
+    background-color:#D3CEDF;
+    margin: 150px auto auto auto;
+    width: 550px;
+    height: 300px;
+    border-radius: 20px;
+    line-height: 2;
+    text-align: center;
+    
+
+}
+
+label {
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    
+}
+
+.input1 {
+    width: 100px;
+    height: 30px;
+    font-size: 25px;
+    margin-top: 20px
+}
+
+.button {
+    width: 100px;
+    height: 35px;
+    font-size: 20px;
+    background-color: #D09CFA;
+    border-radius: 5px;
+    margin-left: 15px
+    
+}
+
+.buttonReset {
+    width: 100px;
+    height: 35px;
+    font-size: 20px;
+    background-color: #D09CFA;
+    border-radius: 5px;
+    margin-left: 15px
+    
+}
+
+p {
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+}
+
+input {
+text-align: center:
+}
